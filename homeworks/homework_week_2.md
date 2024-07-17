@@ -87,7 +87,7 @@ What's the size of the `ollama_files/models` folder?
 
 * 0.6G
 * 1.2G
-* 1.7G
+* [1.7G]
 * 2.2G
 
 Hint: on linux, you can use `du -h` for that.
@@ -143,7 +143,7 @@ How many completion tokens did you get in response?
 * 304
 * 604
 * 904
-* 1204
+* [1204]
 
 ## Submit the results
 
